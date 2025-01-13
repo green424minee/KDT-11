@@ -1,0 +1,8 @@
+site_name: 자바&Springboot 크로스 플랫폼(풀스택)융합 응용SW개발자 양성과정 - 11회차
+theme:
+  name: material
+
+markdown_extensions:
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
