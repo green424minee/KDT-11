@@ -96,4 +96,4 @@
 
 ### 5. 팀편성 기준
 
-<a href="https://github.com/green424minee/KDT-10/raw/refs/heads/master/%EA%B5%90%EC%82%AC/Mini%20Project-01/%EC%A1%B0%ED%8E%B8%EC%84%B1%20%EA%B7%BC%EA%B1%B0(%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B81).xlsx">조편성 근거(프로젝트1).xlsx</a>
+[조편성 근거](team-excel.xlsx)
