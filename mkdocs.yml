@@ -6,3 +6,11 @@ markdown_extensions:
   - def_list
   - pymdownx.tasklist:
       custom_checkbox: true
+
+plugins:
+  - search
+  - print-site:
+      add_table_of_contents: false
+      enumerate_headings: false
+      enumerate_figures: false
+      add_cover_page: false
