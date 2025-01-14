@@ -15,4 +15,4 @@
 
 ---
 
-- [PDF 버전](/print_page/)
+- [PDF 버전](./print_page/)
