@@ -27,3 +27,4 @@ plugins:
       enumerate_headings: false
       enumerate_figures: false
       add_cover_page: false
+  - mkdocs-video
