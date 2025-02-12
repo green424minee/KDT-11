@@ -1,4 +1,5 @@
 site_name: 자바&Springboot 크로스 플랫폼(풀스택)융합 응용SW개발자 양성과정 - 11회차
+site_url: https://green424minee.github.io/KDT-11/
 theme:
   name: material
   language: ko
@@ -21,10 +22,10 @@ markdown_extensions:
 
 plugins:
   - search
+  - mkdocs-video
   - print-site:
       add_to_navigation: true
       add_table_of_contents: false
       enumerate_headings: false
       enumerate_figures: false
       add_cover_page: false
-  - mkdocs-video
