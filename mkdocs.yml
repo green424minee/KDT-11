@@ -16,6 +16,7 @@ nav:
   # - Mini Project-01: 교사/Mini%20Project-01/Mini%20Project-01
 
 markdown_extensions:
+  - attr_list
   - def_list
   - pymdownx.tasklist:
       custom_checkbox: true
